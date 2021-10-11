@@ -20,6 +20,8 @@ After this initial analysis, it was revealed that standardized math and reading 
 
 ## Results
 
+What follows is a discussion of each table and the affect that removing test scores from 9th graders at Thomas High School had on the final resutls.
+
 District Summary, includes 9th Grade Thomas students:
 
 ![district_summary.png](Resources/district_summary.png)
@@ -28,4 +30,4 @@ District Summary, excludes 9th Grade Thomas students:
 
 ![challenge_district_summary.png](Resources/challenge_district_summary.png)
 
-
+  - The only column in the district summary table that was affected was *% Overall Passing* which saw less than a percent increase. 
